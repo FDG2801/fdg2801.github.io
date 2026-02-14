@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![FDG2801](https://img.shields.io/badge/fdg2801-github-blue?logo=github)](https://github.com/fdg2801)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently an Artificial Intelligence and Data Researcher in Engineering SpA.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: francesco.digangi2801[at]fas.harvard.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Master Degree, Computer Engineering - Artificial Intelligence and Data Analytics, Politecnico di Torino, 2021-2024 \
+Bachelor Degree, Computer Engineering, Università degli Studi di Palermo, 2017-2021.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Machine Learning; Computer Vision; Large Language Models (LLMs); xAI; Image Segmentation, Semantic Segmentation; Natural Language Processing (NLP); Visual GeoLocalization; Pattern Recognition
 
