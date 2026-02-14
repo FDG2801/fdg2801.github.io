@@ -2,7 +2,7 @@
 
 [![FDG2801](https://img.shields.io/badge/fdg2801-github-blue?logo=github)](https://github.com/fdg2801)
 
-He is currently an Artificial Intelligence and Data Researcher in Engineering SpA.
+He is currently an Artificial Intelligence and Data Researcher at Engineering SpA.
 
 #### Contact
 
