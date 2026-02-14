@@ -6,7 +6,7 @@ He is currently an Artificial Intelligence and Data Researcher in Engineering Sp
 
 #### Contact
 
-Email: francesco.digangi2801[at]fas.harvard.edu
+Email: francesco.digangi2801[at]gmail.com
 
 #### Education
 Master Degree, Computer Engineering - Artificial Intelligence and Data Analytics, Politecnico di Torino, 2021-2024 \
