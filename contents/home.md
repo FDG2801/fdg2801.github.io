@@ -6,7 +6,7 @@ He is currently an Artificial Intelligence and Data Researcher at Engineering Sp
 
 #### Contact
 
-Email: francesco.digangi2801[at]gmail.com
+Email: francesco.digangi2801[at]gmail.com,
 
 LinkedIn: https://www.linkedin.com/in/digangifrancesco/
 
