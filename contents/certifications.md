@@ -1,3 +1,5 @@
+- Model Context Protocol: Introduction and Advanced Topic (Anthropic)
+
 - MLOps Essentials: Model Development and Integration
 
 - Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
